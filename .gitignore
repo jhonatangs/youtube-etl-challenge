@@ -1,0 +1,9 @@
+.venv
+.env
+config
+logs
+plugins
+dags/__pycache__
+
+docker-compose.yaml
+test_api.py
