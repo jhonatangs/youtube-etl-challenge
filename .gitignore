@@ -4,6 +4,7 @@ config
 logs
 plugins
 dags/__pycache__
+dags/utils/__pycache__
 
 docker-compose.yaml
 test_api.py
