@@ -4,7 +4,7 @@
 
 Este é um projeto simples que coleta informações sobre um canal específico do YouTube e sobre seus 10 vídeos mais assistidos.
 
-Foi utilizado o Airflow para agendar a extração dos dados para todos os dias as 01:30 AM, a linguagem de programação Python e a biblioteca Pandas para tratamento dos dados e a biblioteca "" do Google para manipulação da API do YouTube.
+Foi utilizado o Airflow para agendar a extração dos dados para todos os dias as 01:30 AM, a linguagem de programação Python e a biblioteca Pandas para tratamento dos dados e a biblioteca googleapiclient do Google para manipulação da API do YouTube.
 
 ## Requisitos
 
